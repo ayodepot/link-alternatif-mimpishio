@@ -1,0 +1,17 @@
+{
+  "name": "link-alternatif-mimpishio",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Mimpishio: Situs Slot Bonus New Member 50% To Rendah",
+  "keywords": [
+    "mimpishio",
+    "mimpishio slot",
+    "mimpishio login",
+    "link alternatif"
+  ],
+  "repository": "https://github.com/ayodepot/link-alternatif-mimpishio",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

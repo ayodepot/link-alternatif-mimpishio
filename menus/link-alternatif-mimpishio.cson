@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle link-alternatif-mimpishio'
+      'command': 'link-alternatif-mimpishio:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'link-alternatif-mimpishio'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'link-alternatif-mimpishio:toggle'
+        }
+      ]
+    ]
+  }
+]
